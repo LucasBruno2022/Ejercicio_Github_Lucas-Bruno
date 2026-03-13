@@ -1,3 +1,5 @@
 Buenas lector 
 Espero que aun estes despierto 
 ¿Estás ahí?
+
+[dialogoNPC-NO]
